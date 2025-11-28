@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .box{
+        width: 200px;
+        height: 100px;
+        color: aqua;
+        background-color: black;
+        transition: width 3s;
+        margin: 10px;
+    }
+    .box:hover{
+        width: 100px;
+
+
+    }
+    .linear{
+        transition-timing-function: linear;
+    }
+    .ease{
+        transition-timing-function:ease ;
+    }
+    .easein{
+        transition-timing-function:ease-in;
+    }
+    .easeout{
+        transition-timing-function: ease-out;
+    }
+    .easeinout{
+        transition-timing-function: ease-in-out;
+    }
+    
+    /* .trans{ */
+        /* width: 100%;
+        background-color: cyan;
+        transition-property: width%;
+        transition-duration: 2s;
+        transition-delay: 2s;
+        transition-timing-function: ease;
+
+         */
+    /* } */
+    /* .trans:hover{ */
+        /* width: 50%; */
+    /* } */
+</style>
+<body>
+    <div  class="box linear">linear</div>
+    <div class="box ease">ease</div>
+    <div class="box easein">ease in</div>
+    <div class="box easeout">ease out</div>
+    <div class="box easeinout"> ease in out</div>
+    
+    <!-- <div class="trans"> -->
+        <!-- <h4>css transition</h4> -->
+
+    <!-- </div> -->
+</body>
+</html>

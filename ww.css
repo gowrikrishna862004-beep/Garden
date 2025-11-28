@@ -1,0 +1,36 @@
+.section1{
+    /* absolute */
+    /* width: 300px;
+    height: 200px;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(255, 240, 240);
+    position: absolute; */
+    
+    /* relative */
+    /* width: 300px; */
+    /* height: 200px;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(255, 240, 240);
+    position: relative; 
+     */
+
+     /* fixed */
+     width: 300px; 
+    height: 200px;
+    background-color: rgb(255, 240, 240);
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+
+    /* sticky */
+
+
+
+
+
+
+
+
+}

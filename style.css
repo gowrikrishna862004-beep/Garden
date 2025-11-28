@@ -1,0 +1,130 @@
+p{font-family: cursive;
+font-weight: 500;
+font-size: medium;
+font-size: medium;
+color: blue;
+/* text-align: center; */
+/* text-align-last:right; */
+/* text-transform: uppercase; */
+/* text-transform: lowercase; */
+/* text-transform: capitalize; */
+text-indent: 80px;
+letter-spacing: 5px;
+line-height: 20px;
+word-spacing: 15px;
+text-shadow: 2px 2px;/
+text-shadow: 2px 2px red;
+text-shadow: 2px 2px 5px red;
+}
+.sugar{
+    background-color: rgb(0, 255, 183);
+}
+h1{
+    /* border-style:dotted; */
+   /* /  border-color: blue; */
+     /* border-left:dotted; */
+     /* border-right: dotted; */
+     border: 5px solid red;
+     border-radius: 20px;
+     img{
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+     }
+
+     
+     
+    
+    
+    /* padding-top: 50px; */
+    /* padding: 10px 10px 20px 60px */
+     /* padding: 50px */
+    padding:20px 40px;
+    
+}
+/* body{ */
+    /* background-color: rgb(43, 226, 192); */
+    /* background-image: url(flower.jpg); */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-repeat: no-repeat; */
+    /* background-position: right top; */
+    /* background-attachment: fixed; */
+    /* background-attachment: scroll; */
+    /* background-size: cover; */
+    /* background:#ffff url(flower.jpg) no-repeat right top; */
+
+/* } */
+/* #opacity{
+    background-color: rgba(0, 255, 255, 0.737);
+    
+}
+#opacity:hover{
+    opacity: 0.5;
+    color: rgb(137, 43, 226);
+} */
+.head1{
+    border-style: dotted;
+}
+.head2{
+    border-style: double;
+}
+.red{
+    color: brown;
+    border-style: dotted;
+}
+.green{
+    color: blue;
+    border-style: double;
+}
+.new{
+    color: blueviolet;
+    /* border-style: double; */
+    border: 2px solid red;
+    border-radius: 5px;
+}
+img{
+    /* opacity: 0.5; */
+    border-radius: 50%;
+    width: 100px;
+    height: 150px;
+    
+}
+/* img:hover{opacity: 1.0;} */
+h1{
+    text-decoration: overline;
+}
+a{
+    text-decoration: none;
+}
+body{
+    /* background-image: url(nature.jpg); */
+    /* background-repeat:repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-repeat: no repeat; */
+    /* background-position:left ; */
+    /* background-attachment: fixed; */
+    /* background-size: contain; */
+    background: #ffff url("nature.jpg") no-repeat ;
+
+}
+img{
+     opacity: 0.3; 
+}
+img:hover{
+    opacity: 1.0;
+}
+div
+h1{
+    display: inline;
+}
+
+
+
+
+
+
+
+    
+    
+
